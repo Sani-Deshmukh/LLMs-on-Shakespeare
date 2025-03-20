@@ -19,14 +19,13 @@ Closest words to 'pray': ['beseech', 'will', 'prithee', 'thank', 'befriend', 'gr
 # Hidden Markov Model Results 
 In this training project, I used Hidden Markov Models architecture coded from scratch to generate new Shakespeare Sonnets based on training on a collection of Shakespearean Sonnets. HMM (a generative model) results comparison with LSTM is also shown below in the results. 
 
-```
+
 
 ![image](https://github.com/user-attachments/assets/d00d1574-2cc1-4bfb-b7c3-c51217d03d53)
 
 ### Word Clouds 
 <img width="1127" alt="image" src="https://github.com/user-attachments/assets/09ecadff-3960-42a0-a547-fbffbc7feb68" />
 
-## Example HMM Generated Sonnets: 
 ```
 n_state= 3
 Sonnet: 
