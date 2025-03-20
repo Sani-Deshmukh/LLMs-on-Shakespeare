@@ -19,6 +19,13 @@ Closest words to 'pray': ['beseech', 'will', 'prithee', 'thank', 'befriend', 'gr
 # Hidden Markov Model Results 
 In this training project, I used Hidden Markov Models architecture coded from scratch to generate new Shakespeare Sonnets based on training on a collection of Shakespearean Sonnets. HMM (a generative model) results comparison with LSTM is also shown below in the results. 
 
+```
+
+![image](https://github.com/user-attachments/assets/d00d1574-2cc1-4bfb-b7c3-c51217d03d53)
+
+### Word Clouds 
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/09ecadff-3960-42a0-a547-fbffbc7feb68" />
+
 ## Example HMM Generated Sonnets: 
 ```
 n_state= 3
@@ -38,22 +45,9 @@ such new fair you from with tongues have to kindness
 thy the of which every need yet an drugs
 then hold my good wrongfully we i so
 
-Number of lines: 14
-Line 1: number of words = 9, number of syllables = 12
-Line 2: number of words = 9, number of syllables = 10
-Line 3: number of words = 8, number of syllables = 10
-Line 4: number of words = 7, number of syllables = 10
-Line 5: number of words = 8, number of syllables = 10
-Line 6: number of words = 10, number of syllables = 10
-Line 7: number of words = 8, number of syllables = 11
-Line 8: number of words = 7, number of syllables = 11
-Line 9: number of words = 6, number of syllables = 10
-Line 10: number of words = 9, number of syllables = 10
-Line 11: number of words = 9, number of syllables = 11
-Line 12: number of words = 10, number of syllables = 10
-Line 13: number of words = 9, number of syllables = 10
-Line 14: number of words = 8, number of syllables = 10
 Rhyme scheme: abcdefghijklmn
+
+
 n_state= 7
 Sonnet: 
 therefore that never long better and will
@@ -71,22 +65,8 @@ mistress to days takes as it thou sigh some
 eloquence with it you tyranny give
 thy keen thou that that who from mayst yet a
 
-Number of lines: 14
-Line 1: number of words = 7, number of syllables = 10
-Line 2: number of words = 8, number of syllables = 10
-Line 3: number of words = 4, number of syllables = 10
-Line 4: number of words = 7, number of syllables = 10
-Line 5: number of words = 10, number of syllables = 10
-Line 6: number of words = 8, number of syllables = 10
-Line 7: number of words = 8, number of syllables = 10
-Line 8: number of words = 7, number of syllables = 10
-Line 9: number of words = 7, number of syllables = 10
-Line 10: number of words = 9, number of syllables = 11
-Line 11: number of words = 8, number of syllables = 10
-Line 12: number of words = 9, number of syllables = 10
-Line 13: number of words = 6, number of syllables = 10
-Line 14: number of words = 10, number of syllables = 10
 Rhyme scheme: abcdefghijhklm
+
 n_state= 9
 Sonnet: 
 thanks suspect seasons' loving cannot as with
@@ -105,22 +85,7 @@ gored thy sun of winter's eyes most your age
 creatures so i love enjoyer woe to
 
 Number of lines: 14
-Warning: 'seasons'' not found in syllable dictionary
-Warning: 'intermixed'' not found in syllable dictionary
-Line 1: number of words = 7, number of syllables = 10
-Line 2: number of words = 7, number of syllables = 10
-Line 3: number of words = 6, number of syllables = 11
-Line 4: number of words = 8, number of syllables = 10
-Line 5: number of words = 9, number of syllables = 10
-Line 6: number of words = 10, number of syllables = 10
-Line 7: number of words = 8, number of syllables = 10
-Line 8: number of words = 9, number of syllables = 10
-Line 9: number of words = 9, number of syllables = 10
-Line 10: number of words = 9, number of syllables = 10
-Line 11: number of words = 8, number of syllables = 10
-Line 12: number of words = 9, number of syllables = 10
-Line 13: number of words = 9, number of syllables = 10
-Line 14: number of words = 7, number of syllables = 10
+
 Rhyme scheme: abcdefagahijkl
 n_state= 11
 Sonnet: 
@@ -139,22 +104,8 @@ threescore delight there his thing to mine whose
 lion's me yet a dateless stand esteemed
 me can worms to her prize doth that bed-vow
 
-Number of lines: 14
-Line 1: number of words = 9, number of syllables = 10
-Line 2: number of words = 9, number of syllables = 10
-Line 3: number of words = 8, number of syllables = 11
-Line 4: number of words = 10, number of syllables = 10
-Line 5: number of words = 8, number of syllables = 10
-Line 6: number of words = 9, number of syllables = 11
-Line 7: number of words = 10, number of syllables = 11
-Line 8: number of words = 6, number of syllables = 10
-Line 9: number of words = 8, number of syllables = 10
-Line 10: number of words = 10, number of syllables = 10
-Line 11: number of words = 9, number of syllables = 10
-Line 12: number of words = 8, number of syllables = 10
-Line 13: number of words = 7, number of syllables = 10
-Line 14: number of words = 9, number of syllables = 10
 Rhyme scheme: abcdefgfhijkfl
+
 n_state= 13
 Sonnet: 
 thee thee one of dear are vial wrackful
@@ -172,21 +123,7 @@ set me but with ill world's to for time light
 this thou none welcome hand my write all delves
 the fuel large but with truth hath the dumb more
 
-Number of lines: 14
-Line 1: number of words = 8, number of syllables = 10
-Line 2: number of words = 9, number of syllables = 10
-Line 3: number of words = 8, number of syllables = 10
-Line 4: number of words = 7, number of syllables = 10
-Line 5: number of words = 7, number of syllables = 10
-Line 6: number of words = 8, number of syllables = 10
-Line 7: number of words = 9, number of syllables = 10
-Line 8: number of words = 9, number of syllables = 11
-Line 9: number of words = 7, number of syllables = 10
-Line 10: number of words = 9, number of syllables = 11
-Line 11: number of words = 9, number of syllables = 10
-Line 12: number of words = 10, number of syllables = 10
-Line 13: number of words = 9, number of syllables = 10
-Line 14: number of words = 10, number of syllables = 10
+
 Rhyme scheme: abcdefghhijkel
 n_state= 15
 Sonnet: 
@@ -205,28 +142,6 @@ justify hearts womb high within these in
 times huswife thy steal that whom for party
 you all false sit height my for world thou latch
 
-Number of lines: 14
-Line 1: number of words = 8, number of syllables = 10
-Line 2: number of words = 7, number of syllables = 10
-Line 3: number of words = 8, number of syllables = 12
-Line 4: number of words = 7, number of syllables = 10
-Line 5: number of words = 9, number of syllables = 10
-Line 6: number of words = 9, number of syllables = 10
-Line 7: number of words = 9, number of syllables = 10
-Line 8: number of words = 7, number of syllables = 11
-Line 9: number of words = 8, number of syllables = 11
-Line 10: number of words = 10, number of syllables = 10
-Line 11: number of words = 9, number of syllables = 10
-Line 12: number of words = 7, number of syllables = 10
-Line 13: number of words = 8, number of syllables = 10
-Line 14: number of words = 10, number of syllables = 10
-Rhyme scheme: abcdefghaijklm
-```
-
-![image](https://github.com/user-attachments/assets/d00d1574-2cc1-4bfb-b7c3-c51217d03d53)
-
-### Word Clouds 
-<img width="1127" alt="image" src="https://github.com/user-attachments/assets/09ecadff-3960-42a0-a547-fbffbc7feb68" />
 
 
 ## Example LSTM Generated Sonnets 
