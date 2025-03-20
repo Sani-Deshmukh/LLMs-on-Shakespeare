@@ -140,11 +140,12 @@ thy made to fast thoughts do love thoughts strongly
 justify hearts womb high within these in
 times huswife thy steal that whom for party
 you all false sit height my for world thou latch
-
+```
 
 
 ## Example LSTM Generated Sonnets 
 ```
+
 Generated Text (Temperature = 1.5):
  shall i compare thee to a summer's day?
 nour remove,
